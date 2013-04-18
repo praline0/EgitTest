@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	심해팽귄이 작업을 시작합니다. 
+	심해팽귄이 작업을 시작합니다.
 	
 </body>
 </html>
